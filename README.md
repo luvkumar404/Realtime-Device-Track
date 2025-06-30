@@ -1,4 +1,4 @@
-# 📍 Real-Time Tracking App
+# Realtime-Device-Track
 
 This project is a real-time location tracking system built using **Node.js**, **Socket.IO**, **EJS**, and **OpenStreetMap (Leaflet.js)**. It allows multiple users/devices to share and view live location updates on an interactive map.
 
@@ -17,7 +17,7 @@ This project is a real-time location tracking system built using **Node.js**, **
 
 ## 📦 Installation
 
-*Clone the repository:**
+1. *Clone the repository:**
    ```bash
    git clone https://github.com/luvkumar404/Realtime-Device-Track.git
    cd Realtime-Device-Track
